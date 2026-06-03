@@ -17,11 +17,11 @@
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
-class JaikrishnaN:
+class
 
     name       = "Jaikrishna N"
     location   = "Chennai, Tamil Nadu, India"
-    email      = "jaikrishna13012002@gmail.com"
+    email      = "jaikrishnasuresh@gmail.com"
     role       = "Media Operations Engineer — MOPS"
     company    = "Quickplay Media Pvt Ltd"
     experience = "3+ Years"
@@ -104,11 +104,11 @@ class JaikrishnaN:
 
 <div align="center">
 
-<a href="https://github.com/jaikrishna13012002">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaikrishna13012002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/jaikrishnasuresh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaikrishnasuresh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/jaikrishna13012002">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaikrishna13012002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/jaikrishnasuresh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaikrishnasuresh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -119,7 +119,7 @@ class JaikrishnaN:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jaikrishna13012002&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=jaikrishnasuresh&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
@@ -129,7 +129,7 @@ class JaikrishnaN:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaikrishna13012002&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaikrishnasuresh&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -139,7 +139,7 @@ class JaikrishnaN:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jaikrishna13012002&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jaikrishnasuresh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 
 </div>
 
@@ -272,10 +272,10 @@ class JaikrishnaN:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-jaikrishna13012002%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jaikrishna13012002@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jaikrishnasuresh%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jaikrishnasuresh@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B91_9384648552-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+919384648552)
 [![Location](https://img.shields.io/badge/Location-Chennai%2C_India-4285F4?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Chennai,India)
-[![GitHub](https://img.shields.io/badge/GitHub-jaikrishna13012002-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jaikrishna13012002)
+[![GitHub](https://img.shields.io/badge/GitHub-jaikrishnasuresh-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jaikrishnasuresh)
 
 </div>
 
@@ -283,9 +283,9 @@ class JaikrishnaN:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=jaikrishna13012002&label=Profile+Views&color=70a5fd&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=jaikrishnasuresh&label=Profile+Views&color=70a5fd&style=flat-square)
 &nbsp;
-![Followers](https://img.shields.io/github/followers/jaikrishna13012002?label=Followers&style=flat-square&color=bf91f3)
+![Followers](https://img.shields.io/github/followers/jaikrishnasuresh?label=Followers&style=flat-square&color=bf91f3)
 
 <br/>
 
